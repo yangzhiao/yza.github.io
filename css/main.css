@@ -1178,7 +1178,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9ddfff;
+  background: #dbff59;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2760,4 +2760,7 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+.back-to-top .fa-arrow-up:before {
+  color: #f1ff88;
 }
